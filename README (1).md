@@ -42,6 +42,9 @@ For Software:
 For Software:
 <img width="1280" height="640" alt="git (1)" src="https://github.com/nihadwdr/watch-nothing/blob/main/mark1.png" />
 
+live link: https://watch-nothing-a3zy.vercel.app
+
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
